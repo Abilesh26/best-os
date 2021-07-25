@@ -1,0 +1,116 @@
+body{ 
+  font-family: 'Red Rose', cursive; 
+  padding: 0;
+  align-items: center; 
+  justify content: center;
+  background-image: url(../images/colorful.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+nav ul{
+   display: flex; justify-content: space-between; } 
+ 
+ h1, h6, h2 { 
+   color: #ee3e80; 
+   text-align:center; }
+   
+ 
+#miuimain{ 
+  color: white; 
+  border: 10px; 
+  border-color: olidd #665544;
+  background-color: #efefef;
+  padding: 5px;
+  background-color: #a1ffe7;
+  background-image: linear-gradient(43deg, #4158D0 0%,#C850C0 45%, #FFCC70 100%);
+} 
+  
+#oxygenosmain{ 
+  color: white; 
+  border: 20px; 
+  padding: 10px; 
+  background: linear-gradient(to
+right, #f64f59, #c471ed, #12c2e9);
+} 
+
+#oneuimain{
+  border: 20px;
+  padding: 10px;
+  padding-top: 3px;
+  background: linear-gradient(to right, #89f7fe, #66a6ff);} 
+
+#end{ 
+  text-align: center; }
+  
+a{ text-decoration: none; } 
+
+p{ line-height: 1.4em; } 
+
+#miuimain:first-letter{ 
+  font-size: 200%; } 
+  
+#oxygenosmain:first-letter{
+font-size: 200%; } 
+
+#oneuimain:first-letter{
+  font-size: 200%; } 
+  
+.content:first-letter{
+font-size: 200%; } 
+
+.progress{
+  padding: 5px; } 
+  
+.box{
+  text-align: center;
+  justify-content: space-between; } 
+  
+.content{
+  text-align: justify;
+}
+
+h1{
+  border-width: 5px;
+  border-style: solid;
+  border-color: #bbbbaa #111111 #ee3e80 #0088dd;
+}
+
+#miuimain{
+  position: relative;
+}
+
+.custom-shape-divider-top-1622638994 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1622638994 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 74px;
+}
+
+.custom-shape-divider-top-1622638994 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#file{
+  padding-left: 100px;
+}
+
+.box{
+  padding-bottom: 10px;
+}
